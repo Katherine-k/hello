@@ -12,6 +12,7 @@ public class Hello
 		System.out.println("test git");
 		System.out.println("test git2");
 		System.out.println("test git3");
+		System.out.println("test git4");
     }
     public String sayHello(){
     	return "hello maven";
